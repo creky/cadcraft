@@ -359,6 +359,7 @@ pub const NO_FILES: &[&str] = &[
     "laymrg",
     "laydel",
     "layout.new",
+    "layout.newarea",
     "layout.delete",
     "layout.rename",
     "layout.copy",
